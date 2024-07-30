@@ -4,7 +4,7 @@
 *A recursão é utilizada para tornar a resposta mais clara. Não há nenhum benefício em termos de desempenho ao utlizar recursão, 
 na verdade os loops (for, while ou do-while) algumas vezes são até melhores para desempenho.*
 
-<br><br>
+<br>
 																																							 
 ## Stack (Pilha)
 
@@ -14,9 +14,9 @@ pop (para remover e ler valores em uma pilha de dados).*<br>
 *Vale ressaltar que usar pilha é bom, mas existe um custo que é o uso excessivo de memória, e quando sua pilha está muito cheia é 
 sinal que o computador está salvando muitas chamadas de funções. Neste caso reescrever o código utulizando loops, pode ajudar.*
 
-<br><br>
+<br>
 
-# Overview
+## Overview
 
 * Recursão é quando uma função chama a si mesma
 * Toda função recursiva tem dois casos: o caso-base e o caso recursivo
